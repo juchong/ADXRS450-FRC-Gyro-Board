@@ -4,4 +4,20 @@
 	<Property Name="NI.Lib.SourceVersion" Type="Int">335577088</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">false</Property>
+	<Item Name="API" Type="Folder">
+		<Item Name="Typedef" Type="Folder">
+			<Item Name="WPI_SimpleGyroDevRef.ctl" Type="VI" URL="../WPI_SimpleGyroDevRef.ctl"/>
+		</Item>
+		<Item Name="WPI_SimpleGyro_Close.vi" Type="VI" URL="../WPI_SimpleGyro_Close.vi"/>
+		<Item Name="WPI_SimpleGyro_Get Angle.vi" Type="VI" URL="../WPI_SimpleGyro_Get Angle.vi"/>
+		<Item Name="WPI_SimpleGyro_Open.vi" Type="VI" URL="../WPI_SimpleGyro_Open.vi"/>
+		<Item Name="WPI_SimpleGyro_RefNum Registry Get.vi" Type="VI" URL="../WPI_SimpleGyro_RefNum Registry Get.vi"/>
+		<Item Name="WPI_SimpleGyro_RefNum Registry Set.vi" Type="VI" URL="../WPI_SimpleGyro_RefNum Registry Set.vi"/>
+		<Item Name="WPI_SimpleGyroLoop.vi" Type="VI" URL="../WPI_SimpleGyroLoop.vi"/>
+	</Item>
+	<Item Name="Private" Type="Folder">
+		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
+		<Item Name="WPI_SimpleGyroGetSetRefNum.vi" Type="VI" URL="../WPI_SimpleGyroGetSetRefNum.vi"/>
+		<Item Name="WPI_SimpleGyroGlobal.vi" Type="VI" URL="../WPI_SimpleGyroGlobal.vi"/>
+	</Item>
 </Library>
