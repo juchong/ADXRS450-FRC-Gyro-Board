@@ -21,6 +21,14 @@
 	</Item>
 	<Item Name="Private" Type="Folder">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
+		<Item Name="WPI_Gyro_ADXRS453_Bit0OddParity.vi" Type="VI" URL="../WPIlib ADXRS453/WPI_Gyro_ADXRS453_Bit0OddParity.vi"/>
+		<Item Name="WPI_Gyro_ADXRS453_BitArrayToSPI.vi" Type="VI" URL="../WPIlib ADXRS453/WPI_Gyro_ADXRS453_BitArrayToSPI.vi"/>
+		<Item Name="WPI_Gyro_ADXRS453_Commands.ctl" Type="VI" URL="../WPIlib ADXRS453/WPI_Gyro_ADXRS453_Commands.ctl"/>
+		<Item Name="WPI_Gyro_ADXRS453_ReadRegister.vi" Type="VI" URL="../WPIlib ADXRS453/WPI_Gyro_ADXRS453_ReadRegister.vi"/>
+		<Item Name="WPI_Gyro_ADXRS453_ReadSensorData.vi" Type="VI" URL="../WPIlib ADXRS453/WPI_Gyro_ADXRS453_ReadSensorData.vi"/>
+		<Item Name="WPI_Gyro_ADXRS453_Registers.ctl" Type="VI" URL="../WPIlib ADXRS453/WPI_Gyro_ADXRS453_Registers.ctl"/>
+		<Item Name="WPI_Gyro_ADXRS453_SPIToBitArray.vi" Type="VI" URL="../WPIlib ADXRS453/WPI_Gyro_ADXRS453_SPIToBitArray.vi"/>
+		<Item Name="WPI_Gyro_ADXRS453_Status.ctl" Type="VI" URL="../WPIlib ADXRS453/WPI_Gyro_ADXRS453_Status.ctl"/>
 		<Item Name="WPI_SimpleGyroFGV.vi" Type="VI" URL="../WPI_SimpleGyroFGV.vi"/>
 		<Item Name="WPI_SimpleGyroGetSetRefNum.vi" Type="VI" URL="../WPI_SimpleGyroGetSetRefNum.vi"/>
 	</Item>
