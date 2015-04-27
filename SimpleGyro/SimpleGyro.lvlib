@@ -13,6 +13,7 @@
 		</Item>
 		<Item Name="WPI_SimpleGyro_Close.vi" Type="VI" URL="../WPI_SimpleGyro_Close.vi"/>
 		<Item Name="WPI_SimpleGyro_Get Angle.vi" Type="VI" URL="../WPI_SimpleGyro_Get Angle.vi"/>
+		<Item Name="WPI_SimpleGyro_Get Rate.vi" Type="VI" URL="../WPI_SimpleGyro_Get Rate.vi"/>
 		<Item Name="WPI_SimpleGyro_Loop.vi" Type="VI" URL="../WPI_SimpleGyro_Loop.vi"/>
 		<Item Name="WPI_SimpleGyro_Open.vi" Type="VI" URL="../WPI_SimpleGyro_Open.vi"/>
 		<Item Name="WPI_SimpleGyro_RefNum Registry Get.vi" Type="VI" URL="../WPI_SimpleGyro_RefNum Registry Get.vi"/>
