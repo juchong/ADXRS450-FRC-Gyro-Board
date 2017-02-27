@@ -26,3 +26,7 @@ This repository is meant to document the development of the ADXRS450/453 donatio
 - Java, C++, and LabVIEW are fully supported
 - *New in 2017* - SPI CS selector jumper for compatibility with other SPI sensors
 - *New in 2017* - Smaller footprint!
+
+### Getting Started:
+
+Looking to get started with the sensor? Check out the LabVIEW getting started guide on the Analog Devices Engineering Zone [blog](https://ez.analog.com/blogs/engineeringmind/2017/01/18/using-the-first-gyro-board-in-frc-labview)!
