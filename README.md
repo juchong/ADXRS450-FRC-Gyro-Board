@@ -24,3 +24,5 @@ This repository is meant to document the development of the ADXRS450/453 donatio
 - Designed to easily interface with the SPI port on the RoboRIO
 - Software support is built into the official RoboRIO software distribution 
 - Java, C++, and LabVIEW are fully supported
+- *New in 2017* - SPI CS selector jumper for compatibility with other SPI sensors
+- *New in 2017* - Smaller footprint!
