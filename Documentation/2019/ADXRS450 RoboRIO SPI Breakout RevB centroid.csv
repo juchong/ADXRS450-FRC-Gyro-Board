@@ -1,0 +1,21 @@
+Screaming Circuits SMD component position file.
+
+Centroid Data for pc board: "ADXRS450 RoboRIO SPI Breakout RevB.brd" as of: 9/25/2018 5:37 PM
+Measurements are in inches. Comma delimited
+Only surface mount components included
+
+RefDes,Layer,LocationX,LocationY,Rotation
+C1,Top,0.094,0.117,90
+C2,Top,0.841,0.581,90
+C3,Top,0.427,0.727,0
+C4,Top,0.717,0.204,0
+D1,Top,0.447,0.205,180
+D2,Top,0.253,0.728,270
+D3,Top,0.743,0.727,270
+FID3,Top,0.890,0.200,0
+FID4,Top,0.065,0.830,0
+JP1,Top,0.900,0.400,90
+L1,Top,0.230,0.118,180
+R1,Top,0.121,0.728,180
+R2,Top,0.610,0.727,180
+U1,Top,0.564,0.475,0

@@ -1,7 +1,7 @@
 # Analog Devices Gyro Board for FIRST Robotics
-### A simple breakout board for the ADXRS450/ADXRS453 gyroscope!
+### A simple breakout board for interfacing the ADXRS450/ADXRS453 gyroscope with an FRC RoboRIO!
 
-This repository is meant to document the development of the ADXRS450/453 donation board built by Analog Devices Inc. and donated to FIRST Robotics teams. The gyro board incorporates a calibrated, single-axis yaw-rate sensor typically used in industrial and navigation applications. 
+This repository is meant to document the development of the ADXRS450/453 donation board built by Analog Devices Inc. and donated to FIRST Robotics Competition teams. The gyro board incorporates a calibrated, single-axis yaw-rate sensor typically used in industrial and navigation applications. 
 
 ![2017 Gyro Board](https://raw.githubusercontent.com/juchong/Analog-Devices-Gyro-Board/master/Documentation/2017/am-3555-2.jpg )
 
@@ -22,11 +22,18 @@ This repository is meant to document the development of the ADXRS450/453 donatio
 ### Gyro Board Features:
 
 - Designed to easily interface with the SPI port on the RoboRIO
-- Software support is built into the official RoboRIO software distribution 
+- Software support is built into the official WPILib software distribution 
 - Java, C++, and LabVIEW are fully supported
-- *New in 2017* - SPI CS selector jumper for compatibility with other SPI sensors
-- *New in 2017* - Smaller footprint!
+- *New in 2019* - SPI CS solder jumper for compatibility with other SPI devices on the same bus
 
 ### Getting Started:
 
-Looking to get started with the sensor? Check out the LabVIEW getting started guide on the Analog Devices Engineering Zone [blog](https://ez.analog.com/blogs/engineeringmind/2017/01/18/using-the-first-gyro-board-in-frc-labview)!
+Looking to get started with the sensor? Check out the FRC getting started guides available on the [Analog Devces Wiki](https://wiki.analog.com/first)!
+
+### Build Your Own:
+
+Circuit boards can be purchased from OshPark in quantities as few as 3. Links to the 2017 and 2019 PCB versions are provided below.
+
+- [2019 Gyro Board](https://oshpark.com/shared_projects/y65Hwywf)
+- [2017 Gyro Board](https://oshpark.com/shared_projects/hwu7OKyt)
+
